@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Fan-Keng Sun</title>
+    <link>https://Daikon-Sun.github.io/home/</link>
+    <description>Recent content in Homes on Fan-Keng Sun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://Daikon-Sun.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://Daikon-Sun.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://Daikon-Sun.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://Daikon-Sun.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/about/</guid>
+      <description>My name is Fan-Keng Sun (孫凡耕). I am a research assistant in the Speech Processing and Machine Learning Lab at National Taiwan University, under the supervision of Prof. Hung-yi Lee and Prof. Lin-shan Lee. I am also an undergraduate researcher in the Electronic Design Automation Lab at NTU, under the supervision of Prof. Yao-Wen Chang.
+My main interest lies in the intersections of machine learning (ML)/deep learning (DL), combinatorial optimization (CO), and electronic design automation (EDA), especially applying ML/DL algorithm to solve CO problem and its application to EDA.</description>
+    </item>
+    
+    <item>
+      <title>Experiences</title>
+      <link>https://Daikon-Sun.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://Daikon-Sun.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://Daikon-Sun.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>https://Daikon-Sun.github.io/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://Daikon-Sun.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://Daikon-Sun.github.io/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://Daikon-Sun.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://Daikon-Sun.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://Daikon-Sun.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honors &amp; Awards</title>
+      <link>https://Daikon-Sun.github.io/home/honors/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/honors/</guid>
+      <description>Machine Learning / Deep Learning  Semifinalist, Formosa Speech Grand Challenge - Talk to AI, Ongoing
+ Top 12, Formosa Speech Grand Challenge - Talk to AI (Warm-Up Match), 2017
+ National Technology and Science Scholarship, CTCI, 2017
+  Electronic Design Automation  3rd Place, Problem A at ICCAD CAD contest, 2018
+ Top 10, Problem B at ICCAD CAD contest, 2018
+ Appier Scholarship, Travel grant for ICCAD, 2018</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://Daikon-Sun.github.io/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://Daikon-Sun.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/skills/</guid>
+      <description>Natural Languages: Mandarin Chinese (native), English (TOEFL 109, GRE 326 / 3.5), Taiwanese (native)
+Programming Languages: Python, C/C++, Shell, Javascript, Matlab, LaTeX
+Operating System: Linux (Arch Linux &amp;amp; Ubuntu), Windows
+Deep Learning Libraries: Tensorflow, PyTorch, Keras</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Daikon-Sun.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

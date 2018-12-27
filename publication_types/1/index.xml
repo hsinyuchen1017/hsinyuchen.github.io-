@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Fan-Keng Sun</title>
+    <link>https://Daikon-Sun.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Fan-Keng Sun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://Daikon-Sun.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anonymous Title</title>
+      <link>https://Daikon-Sun.github.io/publication/bus_routing/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/publication/bus_routing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anonymous Title</title>
+      <link>https://Daikon-Sun.github.io/publication/wirelength_model/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/publication/wirelength_model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Pattern Attention for Multivariate Time Series Forecasting</title>
+      <link>https://Daikon-Sun.github.io/publication/temporal_pattern_attention/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/publication/temporal_pattern_attention/</guid>
+      <description>Link to the paper.
+Link to the arxiv.</description>
+    </item>
+    
+    <item>
+      <title>A Multithreaded Initial Detailed Routing Algorithm Considering Global Routing Guides</title>
+      <link>https://Daikon-Sun.github.io/publication/detailed_routing/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://Daikon-Sun.github.io/publication/detailed_routing/</guid>
+      <description>Link to the paper.
+Link to the ACM DL.</description>
+    </item>
+    
+  </channel>
+</rss>
